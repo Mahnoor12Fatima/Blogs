@@ -1,7 +1,5 @@
 {
-   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ],
+  
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
