@@ -33,7 +33,6 @@ const EditBlog = () => {
         register,
         handleSubmit,
         formState: { errors },
-        watch,
         reset,
       } = useForm<BlogFormInputs>();
     

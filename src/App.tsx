@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import BlogCard from './components/BlogCard'
+
 import { Route,Routes } from 'react-router-dom'
 import Blogs from './components/Blogs'
 import Contact from './components/Contact'
